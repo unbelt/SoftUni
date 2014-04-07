@@ -1,4 +1,4 @@
 SoftUni
 =======
 
-Software University
+Software University Projects
