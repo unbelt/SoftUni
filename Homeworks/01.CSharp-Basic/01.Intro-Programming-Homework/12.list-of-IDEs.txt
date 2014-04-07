@@ -1,0 +1,42 @@
+Development Environments
+************************
+
+Visual Studio
+---------------
+Microsoft Visual Studio is a powerfull IDE for Windows application and software deveopment under
+.NET platform. VS supports different programing languages, such as C#, C/C++, VB.NET, F# and others.
+You can download Visual Studio Express for free, or pay 23 736.94 USD for Ultimate version.
+
+
+Android Studio
+---------------
+Android Studio is an integrated development editor developed by Google for Android applications.
+It was inspired by JeBrains’s IntelliJ IDEA, a general purpose IDE that encases a state-of-the-art
+collection of tools for code writing and testing. The package that wraps Android Studio includes the IDE,
+the latest Android SDK tools for testing and debugging, as well as the Android platform for compilation
+and the Android system image that functions as an emulator.
+
+
+NetBeans
+---------------
+NetBeans is an open-source integrated development environment designed to help users develop all
+Java application types (Java SE, Java ME, web, EJB and mobile utilities), and is suitable for HTML5
+development, PHP and C/C++ projects as well. The NetBeans IDE is written in Java and can run on
+Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+
+Eclipse
+---------------
+Eclipse is an IDE written mostly in Java, used to develop applications. It contains a base workspace
+and an extensible plug-in system for customizing the environment. By means of various plug-ins,
+Eclipse may also be used to develop applications in other programming languages:
+Ada, C, C++, Fortran, Haskell, JavaScript, Perl, PHP, Python, R, Ruby.
+Development environments include the Eclipse Java development tools (JDT) for Java and Scala,
+Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+
+Dreamweaver
+---------------
+Adobe Dreamweaver is a proprietary web development tool developed by Adobe Systems.
+It supports HTML/CSS, JavaScript, and a number of other web-related technologies.
+Dreamweaver is available for both OS X and Windows.

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

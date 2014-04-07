@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\09.PrintASequence\obj\Debug\09.PrintASequence.pdb

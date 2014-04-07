@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb

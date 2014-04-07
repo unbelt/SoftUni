@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\17.PlayWithTheDebugger\bin\Debug\17.PlayWithTheDebugger.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\17.PlayWithTheDebugger\bin\Debug\17.PlayWithTheDebugger.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\17.PlayWithTheDebugger\bin\Debug\17.PlayWithTheDebugger.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\17.PlayWithTheDebugger\obj\Debug\17.PlayWithTheDebugger.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\17.PlayWithTheDebugger\obj\Debug\17.PlayWithTheDebugger.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\17.PlayWithTheDebugger\obj\Debug\17.PlayWithTheDebugger.csprojResolveAssemblyReference.cache

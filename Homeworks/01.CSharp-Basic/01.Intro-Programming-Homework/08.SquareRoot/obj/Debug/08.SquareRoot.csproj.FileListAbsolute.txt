@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\01.Intro-Programming-Homework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb
