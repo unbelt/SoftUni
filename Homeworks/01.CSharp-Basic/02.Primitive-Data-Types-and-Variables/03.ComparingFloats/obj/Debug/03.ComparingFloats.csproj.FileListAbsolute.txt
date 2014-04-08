@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\03.ComparingFloats\bin\Debug\03.ComparingFloats.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\03.ComparingFloats\obj\Debug\03.ComparingFloats.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\03.ComparingFloats\obj\Debug\03.ComparingFloats.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\03.ComparingFloats\obj\Debug\03.ComparingFloats.csprojResolveAssemblyReference.cache

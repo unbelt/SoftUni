@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\11.EmployeeData\bin\Debug\11.EmployeeData.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\11.EmployeeData\bin\Debug\11.EmployeeData.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\11.EmployeeData\bin\Debug\11.EmployeeData.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.csprojResolveAssemblyReference.cache

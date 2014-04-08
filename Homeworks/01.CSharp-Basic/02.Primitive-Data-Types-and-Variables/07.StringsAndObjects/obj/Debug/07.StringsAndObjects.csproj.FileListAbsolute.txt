@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.pdb

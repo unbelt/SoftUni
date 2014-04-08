@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.pdb

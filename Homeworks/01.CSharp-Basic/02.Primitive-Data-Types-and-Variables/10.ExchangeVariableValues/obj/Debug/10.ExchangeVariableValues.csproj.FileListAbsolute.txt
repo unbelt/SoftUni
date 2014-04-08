@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.pdb

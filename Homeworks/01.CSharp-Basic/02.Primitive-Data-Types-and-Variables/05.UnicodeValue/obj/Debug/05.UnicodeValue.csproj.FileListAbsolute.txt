@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\05.UnicodeValue\bin\Debug\05.UnicodeValue.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\02.Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.pdb
