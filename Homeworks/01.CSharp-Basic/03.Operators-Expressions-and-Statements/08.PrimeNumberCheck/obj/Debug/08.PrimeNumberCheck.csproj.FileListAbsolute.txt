@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

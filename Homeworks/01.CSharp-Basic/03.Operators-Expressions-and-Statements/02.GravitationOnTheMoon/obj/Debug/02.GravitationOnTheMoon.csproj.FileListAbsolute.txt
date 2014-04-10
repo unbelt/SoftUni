@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

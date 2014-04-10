@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

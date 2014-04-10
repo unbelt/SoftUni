@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\11.Bitwise-ExtractBit\bin\Debug\11.Bitwise-ExtractBit.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\11.Bitwise-ExtractBit\bin\Debug\11.Bitwise-ExtractBit.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\11.Bitwise-ExtractBit\bin\Debug\11.Bitwise-ExtractBit.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\11.Bitwise-ExtractBit\obj\Debug\11.Bitwise-ExtractBit.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\11.Bitwise-ExtractBit\obj\Debug\11.Bitwise-ExtractBit.pdb

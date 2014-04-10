@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.csprojResolveAssemblyReference.cache

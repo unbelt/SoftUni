@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.pdb

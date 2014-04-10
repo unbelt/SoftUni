@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\10.InsideCircle-OutsideRectangle\bin\Debug\10.InsideCircle-OutsideRectangle.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\10.InsideCircle-OutsideRectangle\bin\Debug\10.InsideCircle-OutsideRectangle.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\10.InsideCircle-OutsideRectangle\bin\Debug\10.InsideCircle-OutsideRectangle.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\10.InsideCircle-OutsideRectangle\obj\Debug\10.InsideCircle-OutsideRectangle.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\10.InsideCircle-OutsideRectangle\obj\Debug\10.InsideCircle-OutsideRectangle.pdb

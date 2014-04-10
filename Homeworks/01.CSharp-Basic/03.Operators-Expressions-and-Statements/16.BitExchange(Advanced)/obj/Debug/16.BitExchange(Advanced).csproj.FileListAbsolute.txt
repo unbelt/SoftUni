@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\16.BitExchange(Advanced)\bin\Debug\16.BitExchange(Advanced).exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\16.BitExchange(Advanced)\bin\Debug\16.BitExchange(Advanced).exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\16.BitExchange(Advanced)\bin\Debug\16.BitExchange(Advanced).pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\16.BitExchange(Advanced)\obj\Debug\16.BitExchange(Advanced).csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\16.BitExchange(Advanced)\obj\Debug\16.BitExchange(Advanced).exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\16.BitExchange(Advanced)\obj\Debug\16.BitExchange(Advanced).pdb

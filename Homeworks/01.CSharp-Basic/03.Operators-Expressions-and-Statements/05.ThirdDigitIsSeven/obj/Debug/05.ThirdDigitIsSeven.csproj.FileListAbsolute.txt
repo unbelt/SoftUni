@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\03.Operators-Expressions-and-Statements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
