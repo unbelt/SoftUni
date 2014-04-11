@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\11.DividableNumbers\bin\Debug\11.DividableNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\11.DividableNumbers\bin\Debug\11.DividableNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\11.DividableNumbers\bin\Debug\11.DividableNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\11.DividableNumbers\obj\Debug\11.DividableNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\11.DividableNumbers\obj\Debug\11.DividableNumbers.pdb

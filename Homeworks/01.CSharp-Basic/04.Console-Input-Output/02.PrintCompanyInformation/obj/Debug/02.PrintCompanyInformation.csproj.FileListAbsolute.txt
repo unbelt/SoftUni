@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

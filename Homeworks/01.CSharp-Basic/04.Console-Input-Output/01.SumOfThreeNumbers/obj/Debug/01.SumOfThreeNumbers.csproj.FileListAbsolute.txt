@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.pdb

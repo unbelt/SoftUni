@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\04.NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

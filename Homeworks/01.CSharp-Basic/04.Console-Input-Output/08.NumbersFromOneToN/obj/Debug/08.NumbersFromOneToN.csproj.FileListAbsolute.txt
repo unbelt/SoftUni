@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb

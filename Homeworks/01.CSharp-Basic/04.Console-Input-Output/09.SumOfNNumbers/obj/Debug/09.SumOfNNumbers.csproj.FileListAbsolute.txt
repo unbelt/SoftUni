@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\04.Console-Input-Output\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
