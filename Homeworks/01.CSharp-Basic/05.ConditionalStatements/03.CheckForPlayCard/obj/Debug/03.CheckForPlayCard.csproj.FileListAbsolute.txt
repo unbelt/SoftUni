@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

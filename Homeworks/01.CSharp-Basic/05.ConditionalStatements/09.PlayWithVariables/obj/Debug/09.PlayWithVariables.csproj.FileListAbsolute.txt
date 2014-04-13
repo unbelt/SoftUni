@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.pdb

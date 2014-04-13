@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache

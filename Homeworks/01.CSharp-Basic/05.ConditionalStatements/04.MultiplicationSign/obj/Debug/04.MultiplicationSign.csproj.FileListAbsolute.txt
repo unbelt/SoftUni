@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

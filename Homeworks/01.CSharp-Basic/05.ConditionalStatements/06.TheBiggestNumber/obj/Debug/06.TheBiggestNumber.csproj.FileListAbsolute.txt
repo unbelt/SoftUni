@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\06.TheBiggestNumber\bin\Debug\06.TheBiggestNumber.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\06.TheBiggestNumber\bin\Debug\06.TheBiggestNumber.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\06.TheBiggestNumber\bin\Debug\06.TheBiggestNumber.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\06.TheBiggestNumber\obj\Debug\06.TheBiggestNumber.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\06.TheBiggestNumber\obj\Debug\06.TheBiggestNumber.pdb

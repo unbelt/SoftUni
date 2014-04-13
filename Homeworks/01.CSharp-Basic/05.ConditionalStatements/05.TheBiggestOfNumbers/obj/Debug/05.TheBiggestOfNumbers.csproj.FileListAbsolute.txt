@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\05.TheBiggestOfNumbers\bin\Debug\05.TheBiggestOfNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\05.TheBiggestOfNumbers\bin\Debug\05.TheBiggestOfNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\05.TheBiggestOfNumbers\bin\Debug\05.TheBiggestOfNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\05.TheBiggestOfNumbers\obj\Debug\05.TheBiggestOfNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\05.ConditionalStatements\05.TheBiggestOfNumbers\obj\Debug\05.TheBiggestOfNumbers.pdb
