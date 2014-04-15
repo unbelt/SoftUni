@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.csprojResolveAssemblyReference.cache

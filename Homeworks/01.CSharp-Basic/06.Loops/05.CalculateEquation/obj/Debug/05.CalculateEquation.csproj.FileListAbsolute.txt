@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\05.CalculateEquation\bin\Debug\05.CalculateEquation.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\05.CalculateEquation\bin\Debug\05.CalculateEquation.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\05.CalculateEquation\bin\Debug\05.CalculateEquation.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\05.CalculateEquation\obj\Debug\05.CalculateEquation.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\05.CalculateEquation\obj\Debug\05.CalculateEquation.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\05.CalculateEquation\obj\Debug\05.CalculateEquation.pdb

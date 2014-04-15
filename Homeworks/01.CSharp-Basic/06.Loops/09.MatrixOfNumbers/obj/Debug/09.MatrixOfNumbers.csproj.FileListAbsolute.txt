@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

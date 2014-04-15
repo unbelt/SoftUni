@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.pdb

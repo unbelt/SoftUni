@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\01.FromOneToN\bin\Debug\01.FromOneToN.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\01.FromOneToN\bin\Debug\01.FromOneToN.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\01.FromOneToN\bin\Debug\01.FromOneToN.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\01.FromOneToN\obj\Debug\01.FromOneToN.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\01.FromOneToN\obj\Debug\01.FromOneToN.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\01.FromOneToN\obj\Debug\01.FromOneToN.pdb

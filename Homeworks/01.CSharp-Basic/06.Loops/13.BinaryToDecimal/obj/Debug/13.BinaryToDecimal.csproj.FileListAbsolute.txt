@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.csprojResolveAssemblyReference.cache

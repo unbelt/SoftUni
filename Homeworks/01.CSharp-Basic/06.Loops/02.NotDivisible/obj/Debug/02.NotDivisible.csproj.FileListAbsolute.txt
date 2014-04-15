@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\02.NotDivisible\bin\Debug\02.NotDivisible.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\02.NotDivisible\bin\Debug\02.NotDivisible.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\02.NotDivisible\bin\Debug\02.NotDivisible.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\02.NotDivisible\obj\Debug\02.NotDivisible.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\02.NotDivisible\obj\Debug\02.NotDivisible.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\02.NotDivisible\obj\Debug\02.NotDivisible.csprojResolveAssemblyReference.cache

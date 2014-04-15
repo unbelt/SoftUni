@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe.config
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.pdb
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.exe
+D:\SkyDrive\SoftUni\Homeworks\01.CSharp-Basic\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.pdb
