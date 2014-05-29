@@ -1,0 +1,7 @@
+1. First you need to have Java SE installed. You can download it from here: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+2. Open "cmd" (shift + r -> cmd), and find directory containing .java file that you want to compile.
+3. Set path to Java JDK bin folder -> "set path=C:\Program Files\Java\jdk1.8.0_05\bin" (replace "jdk1.8.0_05" with your version of JDK)
+4. Type "javac nameOfTheFile.java" to compile the file.
+5. You can execute the compiled file by using "java nameOfTheFile" command.
+
+Good luck!
