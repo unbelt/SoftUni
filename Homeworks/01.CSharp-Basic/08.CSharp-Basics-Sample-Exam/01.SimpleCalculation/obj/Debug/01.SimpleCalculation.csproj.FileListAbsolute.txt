@@ -1,0 +1,9 @@
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe.config
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.pdb
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.pdb
+D:\GitHub\SoftUni\Homeworks\01.CSharp-Basic\08.CSharp-Basics-Sample-Exam\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe.config
+D:\GitHub\SoftUni\Homeworks\01.CSharp-Basic\08.CSharp-Basics-Sample-Exam\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.exe
+D:\GitHub\SoftUni\Homeworks\01.CSharp-Basic\08.CSharp-Basics-Sample-Exam\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\02.SimpleLoops\bin\Debug\02.SimpleLoops.exe.config
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\02.SimpleLoops\bin\Debug\02.SimpleLoops.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\02.SimpleLoops\bin\Debug\02.SimpleLoops.pdb
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\02.SimpleLoops\obj\Debug\02.SimpleLoops.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\02.SimpleLoops\obj\Debug\02.SimpleLoops.pdb
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\02.SimpleLoops\obj\Debug\02.SimpleLoops.csprojResolveAssemblyReference.cache

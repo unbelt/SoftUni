@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\04.NestedLoops\bin\Debug\04.NestedLoops.exe.config
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\04.NestedLoops\bin\Debug\04.NestedLoops.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\04.NestedLoops\bin\Debug\04.NestedLoops.pdb
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\04.NestedLoops\obj\Debug\04.NestedLoops.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\04.NestedLoops\obj\Debug\04.NestedLoops.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\04.NestedLoops\obj\Debug\04.NestedLoops.pdb

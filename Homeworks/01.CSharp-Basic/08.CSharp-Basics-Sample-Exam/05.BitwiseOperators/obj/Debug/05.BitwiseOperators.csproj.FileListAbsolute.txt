@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\05.BitwiseOperators\bin\Debug\05.BitwiseOperators.exe.config
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\05.BitwiseOperators\bin\Debug\05.BitwiseOperators.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\05.BitwiseOperators\bin\Debug\05.BitwiseOperators.pdb
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\05.BitwiseOperators\obj\Debug\05.BitwiseOperators.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\05.BitwiseOperators\obj\Debug\05.BitwiseOperators.exe
+D:\SkyDrive\SoftUni\Practice\CSharp-Basics-Sample-Exam\05.BitwiseOperators\obj\Debug\05.BitwiseOperators.pdb
