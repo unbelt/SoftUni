@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.softuni {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 65px;
+    padding: 25px 45px;
+    background-color: #234465;
+}
+.softuni a {
+    text-decoration: none;
+}
+.softuni .arrow {
+    display: inline-block;
+    border-top: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    vertical-align: middle;
+    margin-left: 3px;
+}
+
+/* Hovers */
+.softuni nav li:hover,
+.softuni .user-section .msg:hover,
+.softuni .user-section .user:hover{
+    background-color: #4ca0db;
+    -webkit-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+.softuni a:hover {
+    text-decoration: none;
+}
+
+/* Logo */
+.softuni .logo {
+    float: left;
+    height: 60px;
+    width: 250px;
+    background: url("../img/logo.png") no-repeat;
+}
+.softuni .logo:hover {
+    opacity: 0.7;
+    -webkit-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+.softuni .brand {
+    display: none;
+}
+.softuni .beta {
+    display: inline;
+    float: right;
+    text-transform: lowercase;
+    font-size: 0.7em;
+    font-weight: normal;
+}
+
+/* User section */
+.softuni .user-section {
+    float: right;
+    display: inline-block;
+    margin-right: 5px;
+}
+.softuni .user-section .msg {
+    float: left;
+    text-align: left;
+    width: 35px;
+    padding: 8px 5px;
+    background: url("../img/notificationsIcon.png") no-repeat;
+    background-position: 20px 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 1px;
+}
+.softuni .user-section .user {
+    font-size: 0.9em;
+    padding: 10px 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+}
+.softuni .user-section nav {
+    display: none;
+}
+
+/* Search box */
+.softuni .search {
+    float: right;
+    border-radius: 5px;
+    border: 1px solid #d5d5d5;
+    background-color: #fff;
+}
+.softuni .search .search-box {
+    width: 220px;
+    height: 32px;
+    float: left;
+    padding-left: 7px;
+    border-radius: 5px;
+    border: 0;
+    color: #367cae;
+}
+.softuni .search .search-button {
+    float: right;
+    width: 32px;
+    height: 32px;
+    background: url("../img/magn-glass-icon.png") no-repeat;
+    background-position: 7px;
+    border: 0;
+    border-left: 1px solid #d5d5d5;
+}
+
+/* Navigation */
+.softuni .main-nav {
+    float: right;
+}
+.softuni .main-nav ul {
+    list-style-type: none;
+    font-size: 0.8em;
+}
+.softuni .main-nav ul li {
+    display: inline-block;
+    margin-left: 7px;
+    border-radius: 5px;
+}
+.softuni .main-nav ul li a {
+    display: inline-block;
+    padding: 10px 7px;
+}
+
+.softuni .main-nav ul li ul {
+    display: none;
+}

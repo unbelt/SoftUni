@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a, a:hover {
+    text-decoration: none;
+    color: #4e6796;
+}
+h1 {
+    font: normal normal 1.6em/150% Georgia, Helvetica, sans-serif;
+}
+h3 {
+    font-weight: normal;
+}
+h4 {
+    font-size: 0.8em;
+    font-weight: normal;
+}
+section {
+    display: inline-block;
+}
+main > header, main > section, aside {
+    margin: 10px 25px;
+}
+
+/*Main Header*/
+main > header, main > aside h3 {
+    border-bottom: 1px solid lightgray;
+}
+main > header > h1 {
+    margin: 0 0 50px 30px;
+}
+main > header nav ul, main > aside ul, main > footer section nav ul {
+    list-style-type: none;
+}
+main > header nav ul li {
+    display: inline-block;
+    margin: 0 50px 5px 20px;
+}
+main > header nav ul li a, section header a, main > aside h3 {
+    color: gray;
+    text-transform: uppercase;
+}
+main > header input {
+    float: right;
+    padding: 3px;
+    margin-top: 75px;
+    background-color: #f7f7f7;
+    border: 1px solid #e6e6e6;
+}
+
+/*Aside*/
+main > aside:first-of-type {
+    width: 15%;
+    margin-top: 60px;
+    border-top: 1px solid lightgray;
+    float: left;
+}
+main aside:last-of-type {
+    width: 15%;
+    float: right;
+}
+main > aside ul li, main > footer section nav ul li {
+    margin: 5px 8px;
+}
+main > aside h3 {
+    margin: 20px 0 10px 0;
+    font-size: 12px;
+}
+
+/*Main Section*/
+main > section {
+    width: 50%;
+}
+main > section article header {
+    margin-bottom: 20px;
+}
+main > section article header time {
+    color: gray;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+main > section article header a {
+    border-bottom: 1px dotted gray;
+    font-size: 13px;
+    letter-spacing: 2px;
+    margin-left: 10px;
+}
+main > section article footer {
+    margin-top: 15px;
+}
+main > section > footer {
+    border-top: 1px solid lightgray;
+    margin: 25px 0;
+    padding-top: 30px;
+}
+
+div {
+    height: 20px;
+    padding: 10px;
+    color: #999999;
+    background-color: #f7f7f7;
+    font-style: italic;
+}
+
+/*Main Footer*/
+main > footer {
+    clear: both;
+    color: white;
+    background-color: black;
+}
+main > footer section {
+    width: 180px;
+    margin: 20px 20px;
+    vertical-align: top;
+}
+main > footer section > header h4, main > footer section > nav h4 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+main > footer p {
+    color: #999999;
+}
+main > footer a {
+    color: white;
+}

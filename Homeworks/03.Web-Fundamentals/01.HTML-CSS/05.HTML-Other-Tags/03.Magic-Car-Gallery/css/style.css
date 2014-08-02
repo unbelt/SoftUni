@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+section {
+    margin: 20px;
+    padding: 10px 30px 30px 30px;
+    width: 555px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+section header h1 {
+    color: #f2c106;
+    text-align: center;
+    font-size: 38px;
+    margin-bottom: 15px;
+}
+form input {
+    display: none;
+}
+form img {
+    display: none;
+}
+form label {
+    font: italic normal 26px Arial, sans-serif;
+    display: block;
+}
+form label:hover {
+    color: #fbd640;
+}
+form input:checked + img {
+    display: block;
+    float: left;
+    margin-right: 30px;
+    border: 2px solid #cda505;
+}

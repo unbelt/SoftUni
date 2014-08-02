@@ -1,0 +1,18 @@
+.flight-order {
+    width: 400px;
+    background-color: #ffc0cb;
+}
+.flight-order .left {
+    float: left;
+    width: 180px;
+}
+.flight-order select {
+    width: 170px;
+}
+.flight-order label {
+    font-size: 12px;
+    font-style: italic;
+}
+.flight-order input[type="number"] {
+    width: 50px;
+}

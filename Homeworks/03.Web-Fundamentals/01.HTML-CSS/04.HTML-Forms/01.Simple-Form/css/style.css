@@ -1,0 +1,77 @@
+.form {
+    width: 600px;
+    height: 310px;
+    padding: 10px;
+    background-color: lightgray;
+}
+.form h1 {
+    color: #234465;
+    margin: 0;
+}
+.form .login, .form .register {
+    width: 300px;
+    display: inline-block;
+    font-weight: bold;
+}
+.form .login fieldset, .form .register fieldset {
+    border:  none;
+}
+.form input {
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 255px;
+}
+.form .register {
+    float: left;
+    color: #666666;
+}
+.form .login {
+    float: right;
+    height: 210px;
+    padding-top: 10px;
+    color: #ffffff;
+    background-color: #234465;
+}
+.form .register span {
+    color: #234465;
+}
+.form .login label {
+    font-weight: normal;
+}
+.form .login a {
+    clear: both;
+    float: right;
+    color: #ffffff;
+    font-size: 12px;
+}
+.form .login label {
+    font-size: 12px;
+}
+
+.form .register legend, .form .login legend {
+    text-transform: uppercase;
+}
+
+/* Buttons */
+.form .reg-button, .form .log-button {
+    width: 150px;
+    background: none;
+    border: 2px solid #234465;
+    float: right;
+    font-weight: bold;
+    color: #234465;
+}
+.form .log-button {
+    width: 100px;
+    border: 2px solid #FF9C00;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.form input[type="checkbox"] {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    float: left;
+}

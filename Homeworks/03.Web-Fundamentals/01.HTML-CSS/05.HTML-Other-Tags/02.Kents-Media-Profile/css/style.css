@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 870px;
+    height: 270px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffc0cb;
+}
+main header {
+    text-align: center;
+}
+section header {
+    text-align: left;
+}
+
+section, figure {
+    float: left;
+    display: inline-block;
+    margin: 0 5px;
+}
+audio {
+    width: 260px;
+    display: block;
+    margin: 5px 0;
+}
+audio:first-of-type {
+    padding: 20px 0 50px 0;
+    background-color: black;
+}
+video {
+
+}
+
+@-webkit-keyframes moving-gradient {
+    0% { background-position: left bottom; }
+    100% { background-position: right bottom; }
+}
+
+/* Animation */
+.bar {
+    width: 150px;
+    height: 15px;
+
+    background: -webkit-linear-gradient(
+            left,
+            #77aa33 30%,
+            #77aa33 80%,
+            #c8eba4 100%
+    ) repeat;
+
+    -webkit-background-size: 50% 100%;
+    -webkit-animation-name: moving-gradient;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+.half { width: 200px; overflow-x: hidden; }
+.half.full { width: 90px; }
+.half .bar { width: 200%; }
+.half.full .bar { -webkit-animation-duration: 2s; }
+.status {
+    border: 1px solid #77aa33;
+    -webkit-border-radius: 2px;
+}
+.status .gradient-overlay {
+    position: absolute;
+    width: 150px;
+    height: 15px;
+
+    background-image: -webkit-linear-gradient(
+            top,
+            rgba(255, 255, 255, .8) 0%,
+            rgba(255, 255, 255, .4) 50%,
+            rgba(255, 255, 255, 0) 50%,
+            rgba(255, 255, 255, .2) 100%
+    );
+}
+
