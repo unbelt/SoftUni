@@ -1,0 +1,30 @@
+<html>
+<body>
+<div>first div</div>
+<div>second div</div>
+<div class="empty"></div>
+<div>third div
+    <div>inner div</div>
+</div>
+<ul id="result"></ul>
+
+<script>
+    (function () {
+        var list = document.getElementById('result'),
+                divs = document.querySelectorAll('div'),
+                listItem, len, i;
+
+        for (i = 0, len = divs.length; i < len; i++) {
+
+            if (divs[i].innerText) {
+                listItem = document.createElement('li');
+                listItem.innerText = divs[i].innerText;
+                list.appendChild(listItem);
+            }
+        }
+
+    }());
+</script>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Decimal to Hexadecimal</title>
+</head>
+<body>
+
+<script>
+    (function () {
+        'user strict';
+        var num = prompt('Enter a number');
+
+        if (num && !isNaN(num)) {
+            alert(parseInt(num).toString(16).toUpperCase());
+        }
+        else {
+            alert('Enter a decimal number!');
+        }
+    }());
+</script>
+
+</body>
+</html>

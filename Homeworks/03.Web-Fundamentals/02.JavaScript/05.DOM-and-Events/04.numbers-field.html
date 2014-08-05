@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Numbers Only Field</title>
+</head>
+<body>
+
+<input type="text" placeholder="Enter a number" id="input">
+
+<script>
+    var input = document.getElementById('input');
+
+    input.onkeyup = function () {
+        if (isNaN(this.value)) {
+            this.style.background = 'red';
+            this.setAttribute('disabled', 'disabled');
+
+            setTimeout(function () {
+                input.removeAttribute('disabled');
+            }, 1000)
+        } else {
+            this.style.background = 'white';
+
+        }
+    }
+</script>
+
+</body>
+</html>
