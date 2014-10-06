@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassHierarchy.ClassHierarchyTest" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ClassHierarchyTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassHierarchy.Human" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassHierarchy.Printer" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Printer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassHierarchy.Student" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassHierarchy.Worker" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAAAIEQAAAAEAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.16" />
+</ClassDiagram>

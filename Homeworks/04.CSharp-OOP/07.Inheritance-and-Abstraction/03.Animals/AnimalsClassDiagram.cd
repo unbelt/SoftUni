@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animals.Animal" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQACAAEAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animals.AnimalsTest" Collapsed="true">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AnimalsTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.Cat" Collapsed="true">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.Dog" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.Frog" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Frog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.Kitten" Collapsed="true">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kitten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.Tomcat" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tomcat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Animals.ISound" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISound.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Animals.Gender" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9.16" />
+</ClassDiagram>

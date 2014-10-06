@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompanyHierarchy.CompanyHierarchyTest" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CompanyHierarchyTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Customer" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompanyHierarchy.Developer" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Developer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompanyHierarchy.Employee" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompanyHierarchy.Manager" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompanyHierarchy.Person" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompanyHierarchy.Project" Collapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAQAAAAQAAgAEAAAEAAAABEAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Sale" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.SalesEmployee" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalesEmployee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="CompanyHierarchy.Department" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9.16" />
+</ClassDiagram>
