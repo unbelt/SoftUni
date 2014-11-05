@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Canvas Geometry API</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<form>
+    <label for="point-x">X: </label>
+    <input type="text" id="point-x"/>
+
+    <label for="point-y">Y: </label>
+    <input type="text" id="point-y"/>
+
+    <label for="color">Color: </label>
+    <input type="color" id="color"/>
+
+    <fieldset id="shape-types">
+        <label for="shapes">Shape: </label>
+        <select name="shape" id="shapes">
+            <option value="select" selected="selected">Select...</option>
+            <option value="circle">Circle</option>
+            <option value="rectangle">Rectangle</option>
+            <option value="triangle">Triangle</option>
+            <option value="segment">Segment</option>
+            <option value="point">Point</option>
+        </select>
+    </fieldset>
+
+    <fieldset id="shape-points">
+    </fieldset>
+
+    <textarea name="added-shapes" id="added-shapes" cols="50" rows="10" disabled="disabled"></textarea>
+
+    <input type="button" id="add-shape" value="Add"/>
+    <input type="button" id="clear-shapes" value="Clear"/>
+
+</form>
+
+</body>
+
+<script src="shapes.js"></script>
+</html>

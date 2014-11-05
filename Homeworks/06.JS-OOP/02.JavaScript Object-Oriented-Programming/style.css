@@ -1,0 +1,12 @@
+fieldset {
+    border: none;
+}
+
+input {
+    width: 50px;
+}
+
+#shape-types, textarea {
+    margin-bottom: 10px;
+    display: block;
+}
