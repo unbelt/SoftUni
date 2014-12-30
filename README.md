@@ -1,4 +1,4 @@
 Software University Projects
 =======
-![alt tag](https://raw2.github.com/unbelt/SoftUni/master/SoftUni.png)
+![alt tag](https://raw.githubusercontent.com/unbelt/SoftUni/master/SoftUni.png)
 
