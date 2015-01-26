@@ -1,0 +1,60 @@
+<!-- Title -->
+<h1>{{ video.title }}</h1>
+
+<hr/>
+
+<!-- Date/Time -->
+<p><span class="glyphicon glyphicon-time"></span> Posted on {{ video.date }}</p>
+
+<hr/>
+
+<!-- Video -->
+<video poster="{{ video.image }}" controls>
+    <source src="movie.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    <track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+    <track src="subtitles_no.vtt" kind="subtitles" srclang="no" label="Norwegian">
+    Your browser does not support the video tag.
+</video>
+
+<div>
+    <p>
+        <strong>Length: </strong> {{ video.length }} |
+        <strong>Category: </strong> {{ video.category }} |
+        <strong>Subscribers: </strong> {{ video.subscribers }}
+    </p>
+</div>
+
+<hr/>
+
+<!-- Comments Form -->
+<div class="well">
+    <h4>Leave a Comment:</h4>
+
+    <form role="form">
+        <div class="form-group">
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+<!-- Comments -->
+<div class="media" ng-repeat="comment in video.comments">
+    <hr/>
+
+    <a class="pull-left" href="#">
+        <img class="media-object" src="http://placehold.it/64x64" alt="">
+    </a>
+
+    <div class="media-body">
+        <h4 class="media-heading">{{ comment.username }}
+            <small>on {{ comment.date }} | <a href="{{ comment.websiteUrl }}">{{ comment.websiteUrl }}</a></small>
+        </h4>
+        {{ comment.content }}
+    </div>
+    <div class="pull-right">
+        <a class="btn btn-md glyphicon glyphicon-thumbs-up" ng-click="like(comment)">{{ comment.likes }}</a>
+        <a class="btn btn-md glyphicon glyphicon-thumbs-down" ng-click="dislike(comment)">{{ comment.dislikes }}</a>
+    </div>
+</div>

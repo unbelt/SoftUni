@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "title": "AngularJS Basics",
+  "pictureUrl": "http://www.ajaxtown.com/wp-content/uploads/2014/05/angular-featured.png",
+  "length": "30:22",
+  "category": "Programming",
+  "subscribers": 3,
+  "date": "14/12/2014",
+  "haveSubtitles": true,
+  "comments": [
+    {
+      "username": "Gosho Goshev",
+      "content": "Well done!",
+      "date": "13:30:40",
+      "likes": 1,
+      "websiteUrl": "http://gosho.com/"
+    }
+  ]
+}

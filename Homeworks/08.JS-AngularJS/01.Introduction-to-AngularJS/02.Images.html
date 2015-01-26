@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Images Getter">
+
+    <title>Images</title>
+
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+<!-- Fixed navbar -->
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="01.Students.html">Intro AngularJS</a>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav">
+                <li><a href="01.Students.html">Students</a></li>
+                <li><a href="02.Images.html">Images</a></li>
+                <li><a href="03.Tigers.html">Tigers</a></li>
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+
+    </div>
+</nav>
+
+<main class="container" ng-cloak>
+    <h1>Images</h1>
+
+    <label for="url">Image URL</label>
+    <input class="form-control" type="text" placeholder="Image URL..." ng-model="url">
+
+    <figure>
+        <img ng-src="{{ url }}">
+    </figure>
+
+    <details>
+        <summary>Test URL</summary>
+        <input class="form-control" id="test" type="text"
+               value="http://www.nakov.com/wp-content/uploads/2014/05/SoftUni-Logo.png">
+    </details>
+</main>
+
+<script data-main="scripts/main" src="scripts/libs/require.js"></script>
+
+</body>
+</html>

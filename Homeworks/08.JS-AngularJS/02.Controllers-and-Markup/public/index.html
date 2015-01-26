@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Application</title>
+    <link rel="stylesheet" href="public/css/main.css"/>
+</head>
+<body ng-app="videoApp" ng-controller="PageController">
+
+<!-- Preloader -->
+<div id="preloader">
+    <div id="status">&nbsp;</div>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="#/home" class="navbar-brand">Video System</a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="#/add-video" class="btn btn-lg glyphicon glyphicon-upload"> Add</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main class="container">
+    <div class="col-lg-8" ng-view></div>
+
+    <div class="col-md-4">
+        <!-- Video Search -->
+        <div class="well">
+            <h4>Video Search</h4>
+
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search..." ng-model="search">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" disabled="disabled">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </span>
+            </div>
+            <!-- /.input-group -->
+        </div>
+
+        <!-- Video Categories -->
+        <div class="well" ng-controller="HomeController">
+            <h4>Video Categories</h4>
+
+            <ul class="list-unstyled list-inline">
+                <li ng-repeat="video in videos">
+                    <input type="button" class="btn btn-default" value="{{ video.category }}" ng-bind="category">
+                </li>
+            </ul>
+        </div>
+    </div>
+</main>
+
+<footer class="footer text-center">
+    <hr/>
+    <small>
+        <strong>Author:</strong> <a href="#/home">{{ author }}</a>,
+        <strong>Copyright:</strong> <a href="#/home">{{ copyright }}</a>
+    </small>
+    <br/>
+    <small>
+        <strong><a href="#/home">Open Source Project</a> powered by:</strong>
+        <a href="http://angularjs.org/">AngularJS</a> and
+        <a href="http://getbootstrap.com/">Twitter Bootstrap</a>
+    </small>
+    <hr/>
+</footer>
+
+<script data-main="public/js/main" src="../vendor/requirejs/require.js"></script>
+
+<script src="../vendor/angular/angular.js"></script>
+<script src="../vendor/angular-resource/angular-resource.min.js"></script>
+<script src="../vendor/angular-route/angular-route.min.js"></script>
+<script src="../app/app.js"></script>
+<script src="../app/controllers/PageController.js"></script>
+<script src="../app/controllers/HomeController.js"></script>
+<script src="../app/controllers/VideoController.js"></script>
+<script src="../app/controllers/AddVideoController.js"></script>
+<script src="../app/controllers/EditVideoController.js"></script>
+<script src="../app/services/videoData.js"></script>
+
+</body>
+</html>

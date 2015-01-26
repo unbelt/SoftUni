@@ -1,0 +1,24 @@
+<div class="well">
+    <h4>Sort by:</h4>
+
+    <select class="form-control" ng-model="sort">
+        <option value="-date">Date</option>
+        <option value="title">Title</option>
+        <option value="length">Length</option>
+        <option value="-subscribers">Subscribers</option>
+    </select>
+</div>
+
+<section class="col-lg-6" ng-repeat="video in videos | limitTo: 10 | orderBy: sort | filter: search | filter: category">
+
+    <!-- Title -->
+    <h2>{{ video.title }}</h2>
+    <hr/>
+
+    <!-- Date/Time -->
+    <p><span class="glyphicon glyphicon-time"></span> Posted on {{ video.date }}</p>
+    <hr/>
+
+    <!-- Video -->
+    <a href="#"><img src="{{ video.pictureUrl }}" alt="{{ video.title }}"/></a>
+</section>

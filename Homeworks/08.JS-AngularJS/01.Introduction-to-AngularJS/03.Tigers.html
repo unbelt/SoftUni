@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="app">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Tigers Info">
+
+    <title>Students</title>
+
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+<!-- Fixed navbar -->
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="01.Students.html">Intro AngularJS</a>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav">
+                <li><a href="01.Students.html">Students</a></li>
+                <li><a href="02.Images.html">Images</a></li>
+                <li><a href="03.Tigers.html">Tigers</a></li>
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+
+    </div>
+</nav>
+
+<main class="container" ng-controller="Tigers" ng-cloak>
+
+    <section ng-repeat="(key, value) in tigers" ng-style="tigers.sectionStyles">
+        <div ng-style="tigers.divStyles">
+            <h1 ng-style="tigers.headerStyles">TIGER {{ key + 1 }}</h1>
+            <p><b>Name:</b> {{ value.Name }}</p>
+            <p><b>Born:</b> {{ value.Born }}</p>
+            <p><b>Birth Date:</b> {{ value.BirthDate }}</p>
+            <p><b>Live:</b> {{ value.Live }}</p>
+        </div>
+
+        <img ng-style="tigers.imgStyles" ng-src="{{ value.PictureUrl }}" />
+    </section>
+
+</main>
+
+<script data-main="scripts/main" src="scripts/libs/require.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "title": "Course introduction",
+  "pictureUrl": "http://www.ajaxtown.com/wp-content/uploads/2014/05/angular-featured.png",
+  "length": "3:32",
+  "category": "IT",
+  "subscribers": 3,
+  "date": "12/06/2014",
+  "haveSubtitles": false,
+  "comments": [
+    {
+      "username": "Pesho Peshev",
+      "content": "Congratulations Nakov",
+      "date": "18:20:40",
+      "likes": 3,
+      "websiteUrl": "http://pesho.com/"
+    }
+  ]
+}

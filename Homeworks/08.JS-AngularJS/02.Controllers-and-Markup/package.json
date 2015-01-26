@@ -1,0 +1,10 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "AngularJS App",
+  "repository": "",
+  "scripts": {
+    "start": "node ./web-server.js"
+  },
+  "devDependencies": {}
+}
