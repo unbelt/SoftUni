@@ -1,0 +1,1 @@
+SELECT REPLACE(CONVERT(NVARCHAR, getdate(), 106), ' ', '.') + ' ' + REPLACE(CONVERT(NVARCHAR, getdate(), 14), ' ', '.')

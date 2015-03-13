@@ -1,0 +1,10 @@
+USE Bank
+GO
+
+CREATE TRIGGER tr_AccountSumChange ON Accounts FOR UPDATE
+AS
+BEGIN
+	INSERT INTO Logs (AccountId, OldSum, NewSum)
+	SELECT d.Id, d.Balance AS [Old Sum], i.Balance AS [New Sum]
+	FROM Deleted d, Inserted i
+END

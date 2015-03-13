@@ -1,0 +1,11 @@
+USE Bank
+GO
+
+CREATE PROC usp_GetAllWithBalanceMoreThan(@balance MONEY)
+AS
+	SELECT p.FirstName, p.LastName, a.Balance
+	FROM Persons p JOIN Accounts a
+	ON a.Balance > @balance
+GO
+
+EXEC usp_GetAllWithBalanceMoreThan 95000

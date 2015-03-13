@@ -1,0 +1,9 @@
+Problem 12. What is a NoSQL database?
+*****************************************
+
+NoSQL encompasses a wide variety of different database technologies
+that were developed in response to a rise in the volume of data stored
+about users, objects and products, the frequency in which this data is accessed,
+and performance and processing needs. Relational databases, on the other hand,
+were not designed to cope with the scale and agility challenges that face modern applications,
+nor were they built to take advantage of the cheap storage and processing power available today.

@@ -1,0 +1,23 @@
+-- Problem 2.
+-- Your task is to add an index to speed-up the search by date. Test the search speed (after cleaning the cache).
+-- You should submit a SQL file with queries and screenshot of speed comparison as a part of your homework.
+
+CREATE INDEX DateIndex ON Entries(Date)
+
+-- 5 years interval, only date (with index) | 3125322 rows
+SELECT e.Date FROM Entries e
+WITH(INDEX(DateIndex))
+WHERE e.Date > '2000-01-01' AND e.Date < '2005-01-01'
+
+
+DROP INDEX DateIndex ON Entries
+
+CHECKPOINT; 
+GO 
+DBCC DROPCLEANBUFFERS;
+GO
+
+
+-- 5 years interval, only date (without index) | 3125322 rows
+SELECT e.Date FROM Entries e
+WHERE e.Date > '2000-01-01' AND e.Date < '2005-01-01'

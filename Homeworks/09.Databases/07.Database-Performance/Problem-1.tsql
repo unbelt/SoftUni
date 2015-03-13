@@ -1,0 +1,32 @@
+-- Problem 1.
+-- Your task is to create a table in SQL Server with 10 000 000 entries (date + text).
+-- Search in the table by date range. Check the speed (without caching).
+
+CREATE DATABASE[Logs]
+GO
+
+USE Logs
+GO
+
+CREATE TABLE Entries (Date DATE, Log NVARCHAR(250))
+GO
+
+DECLARE @FromDate date = '2000-01-01'
+DECLARE @ToDate date = '2015-12-31'
+DECLARE @n BIGINT = 10000000;
+
+BEGIN TRANSACTION
+WHILE(@n > 0)
+BEGIN
+INSERT INTO Entries
+VALUES (dateadd(day, rand(checksum(newid())) * (1+datediff(day, @FromDate, @ToDate)), @FromDate), CONVERT(varchar(50), NEWID()))
+SET @n = @n - 1
+END
+COMMIT TRANSACTION
+
+SELECT COUNT(*) AS [Entries Count] FROM Entries e 
+
+
+-- 5 years interval (without caching) | 3125322 rows
+SELECT e.Date, e.Log FROM Entries e
+WHERE e.Date > '2000-01-01' AND e.Date < '2005-01-01'

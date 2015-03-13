@@ -1,0 +1,42 @@
+USE Bank
+GO
+
+CREATE FUNCTION ufn_GetBalanceById (@AccountId INT) RETURNS MONEY
+BEGIN
+	RETURN (
+		SELECT Balance
+		FROM Accounts a
+		WHERE a.Id = @AccountId
+	)
+END
+GO
+
+CREATE PROC usp_DepositMoney (@AccountId INT, @amount MONEY)
+AS
+	IF (@amount <= 0 OR @amount IS NULL)
+		RAISERROR ('Deposit amount must number greater then zero.', 16, 1);
+	ELSE
+		UPDATE Accounts
+		SET Balance = dbo.ufn_GetBalanceById(@AccountId) + @amount
+		WHERE Id = @AccountId;
+GO
+
+CREATE PROC usp_WithdrawMoney (@AccountId INT, @amount MONEY)
+AS
+	IF (@amount <= 0 OR @amount IS NULL)
+		RAISERROR ('Withdraw amount must number greater then zero.', 16, 1);
+	ELSE
+		UPDATE Accounts
+		SET Balance = dbo.ufn_GetBalanceById(@AccountId) - @amount
+		WHERE Id = @AccountId;
+GO
+
+
+EXEC usp_DepositMoney 1, 100.50;
+GO
+
+EXEC usp_WithdrawMoney 1, 100;
+GO
+
+SELECT dbo.ufn_GetBalanceById(1) AS Balance
+GO

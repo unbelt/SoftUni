@@ -1,0 +1,20 @@
+USE SoftUni
+GO
+
+DROP FUNCTION ufn_SearchFor
+GO
+
+CREATE FUNCTION dbo.ufn_SearchFor(@query NVARCHAR(MAX)) RETURNS TABLE
+AS
+	RETURN (
+		SELECT e.FirstName, e.LastName, e.MiddleName, t.Name
+		FROM Employees e
+		JOIN Towns t
+		ON e.FirstName LIKE '[' + @query +']%'
+		AND e.LastName LIKE '[' + @query +']%'
+		AND e.MiddleName LIKE '[' + @query +']%'
+		AND t.Name LIKE '[' + @query +']%'
+	)
+GO
+
+SELECT * FROM dbo.ufn_SearchFor('oistmiahf') 

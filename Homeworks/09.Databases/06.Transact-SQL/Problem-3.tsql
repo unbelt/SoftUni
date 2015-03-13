@@ -1,0 +1,9 @@
+CREATE FUNCTION ufn_CalculateInterest(@sum MONEY, @interest REAL, @months FLOAT) RETURNS DECIMAL(18, 2)
+BEGIN
+	DECLARE @result MONEY;
+	SET @result = @sum * (1 + (@interest / 100) * (@months / 12));
+	RETURN @result;
+END
+GO
+
+SELECT dbo.ufn_CalculateInterest(10000.50, 3.875, 24) AS [Total Sum]

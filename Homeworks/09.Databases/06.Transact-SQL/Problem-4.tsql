@@ -1,0 +1,29 @@
+USE Bank
+GO
+
+CREATE FUNCTION ufn_CalculateInterest(@sum MONEY, @interest REAL, @months FLOAT) RETURNS DECIMAL(18, 2)
+BEGIN
+	DECLARE @result MONEY;
+	SET @result = @sum * (1 + (@interest / 100) * (@months / 12));
+	RETURN @result;
+END
+GO
+
+CREATE PROC usp_GetClientInterest(@AccountId INT, @interest REAL)
+AS
+	DECLARE @currentBalance MONEY;
+	SET @currentBalance = (
+	SELECT Balance FROM Accounts
+	WHERE Id = @AccountId
+	);
+
+	UPDATE Accounts
+	SET  Balance = dbo.ufn_CalculateInterest(@currentBalance, @interest, 1)
+	WHERE Id = @AccountId
+GO
+
+EXEC usp_GetClientInterest 1, 3.875
+GO
+
+SELECT Balance FROM Accounts
+WHERE Id = 1
