@@ -1,6 +1,0 @@
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\04.Task\bin\Debug\04.Task.exe.config
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\04.Task\bin\Debug\04.Task.exe
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\04.Task\bin\Debug\04.Task.pdb
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\04.Task\obj\Debug\04.Task.exe
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\04.Task\obj\Debug\04.Task.pdb
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\04.Task\obj\Debug\04.CrossingSequences.csprojResolveAssemblyReference.cache

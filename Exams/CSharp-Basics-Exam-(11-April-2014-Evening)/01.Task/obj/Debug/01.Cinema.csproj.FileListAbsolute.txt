@@ -1,6 +1,0 @@
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\01.Task\bin\Debug\01.Task.exe.config
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\01.Task\bin\Debug\01.Task.exe
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\01.Task\bin\Debug\01.Task.pdb
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\01.Task\obj\Debug\01.Cinema.csprojResolveAssemblyReference.cache
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\01.Task\obj\Debug\01.Task.exe
-D:\SkyDrive\SoftUni\Exams\CSharp-Basics-Exam-(11-April-2014-Evening)\01.Task\obj\Debug\01.Task.pdb
