@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: Tahoma, "Helvetica", "sans-serif";
+    padding: 20px;
+}
+
+section {
+    display: inline-block;
+    width: 145px;
+    margin-right: 20px;
+}
+
+section > header h1 {
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+section > header h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+section > header h1 a:hover {
+    color: gray;
+}
+
+/* Author */
+section > header span {
+    display: block;
+    margin: 10px 0;
+    font-size: 14px;
+    color: gray;
+}
+
+section > img {
+    display: block;
+}
+
+/* Poster */
+section > figure {
+    border: 1px solid lightgray;
+    cursor: pointer;
+    height: 135px;
+    width: 135px;
+}
+
+/* Price label */
+section > span {
+    color: darkred;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Buy button */
+section input[type="submit"] {
+    display: block;
+    width: 130px;
+    height: 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background: url("../img/shopping-cart-inactive.png") transparent;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+section input[type="submit"]:hover {
+    background: url("../img/shopping-cart-active.png") transparent;
+}

@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font: Arial, "Helvetica", "sans-serif";
+    background: url("../img/blurred-green-background.jpg") no-repeat;
+    background-size: 100%;
+}
+@font-face {
+    font-family: "halflings";
+    src: url(../font/glyphicons-halflings-regular.ttf);
+}
+
+section {
+    width: 350px;
+    margin: 50px auto;
+    text-align: center;
+}
+section > header {
+    padding: 7px;
+    color: #ffffff;
+    background-color: #93d55c;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* Login Form */
+section > form {
+    padding: 20px 10px;
+    background: #eaf4d7;
+}
+
+section > form input,
+section > div input[type="search"] {
+    width: 260px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: #ffffff;
+    -webkit-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 11px 11px 11px 45px;
+    border: 1px solid lightgray;
+}
+
+section > form input:focus,
+section > div input[type="search"]:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    padding: 11px 11px 11px 45px;
+    border: 1px solid rgba(81, 203, 238, 1);
+}
+
+[data-icon]:before {
+    font-family: "halflings";
+    content: attr(data-icon);
+    speak: none;
+    background: #eeeeee;
+    position: absolute;
+    padding-top: 10px;
+    margin-top: 10px;
+    width: 32px;
+    height: 28px;
+    border: 1px solid lightgray;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+section > form input[type="submit"] {
+    width: 320px;
+    padding-left: 0px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #5cb85c;
+    border: 1px solid #229e22;
+    border-bottom: 5px solid #229e22;
+    font-weight: bold;
+}
+section > form input[type="submit"]:hover {
+    background-color: #449d44;
+    border: 1px solid #398439;
+    border-bottom: 5px solid #229e22;
+    cursor: pointer;
+}
+
+/* Search */
+section > div input[type="search"] {
+    padding-left: 10px;
+    display: inline-block;
+    float: left;
+    z-index: -1;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+section > div input[type="search"]:focus {
+    padding: 11px 11px 11px 10px;
+}
+
+/* Search button */
+section > div input[type="submit"] {
+    height: 40px;
+    width: 90px;
+    float: right;
+    margin-top: 10px;
+    position: relative;
+    border: 1px solid #4cae4c;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    color: white;
+    background-color: #5cb85c;
+    padding-bottom: 5px;
+}
+section > div input[type="submit"] {
+    font-family: "halflings";
+    font-size: 18px;
+}
+section > div input[type="submit"]:hover {
+    background-color: #449d44;
+    border: 1px solid #398439;
+}
