@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.ConsoleClient", "News.ConsoleClient\News.ConsoleClient.csproj", "{58939B7D-CE61-4489-9D34-14C9AED78663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships.ConsoleClient", "Battleships.ConsoleClient\Battleships.ConsoleClient.csproj", "{FA511FF5-1AC1-4226-93B0-1504DF79494E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58939B7D-CE61-4489-9D34-14C9AED78663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58939B7D-CE61-4489-9D34-14C9AED78663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58939B7D-CE61-4489-9D34-14C9AED78663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58939B7D-CE61-4489-9D34-14C9AED78663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA511FF5-1AC1-4226-93B0-1504DF79494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA511FF5-1AC1-4226-93B0-1504DF79494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA511FF5-1AC1-4226-93B0-1504DF79494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA511FF5-1AC1-4226-93B0-1504DF79494E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
