@@ -16,12 +16,12 @@ public class Program
 
     public static List<int> GetLongestSubsequence(string input)
     {
-        var inputArray = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
-        if (string.IsNullOrWhiteSpace(input))
+    	if (string.IsNullOrWhiteSpace(input))
         {
             throw new ArgumentException("Input is empty!");
         }
+        
+        var inputArray = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
         var length = 1;
         var bestLen = 1;
