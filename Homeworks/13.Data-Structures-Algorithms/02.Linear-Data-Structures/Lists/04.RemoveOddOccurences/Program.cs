@@ -9,9 +9,9 @@ public class Program
         Console.WriteLine("Enter numbers [space separated]:");
 
         var input = Console.ReadLine();
-        var outpu = RemoveOddOccurences(input);
+        var output = RemoveOddOccurences(input);
 
-        Console.WriteLine(string.Join(" ", outpu));
+        Console.WriteLine(string.Join(" ", output));
     }
 
     private static List<string> RemoveOddOccurences(string input)
