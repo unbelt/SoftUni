@@ -14,7 +14,7 @@ public class Program
         Console.WriteLine(string.Join(" ", output));
     }
 
-    public static List<string> SortStrings(string input = "")
+    public static List<string> SortStrings(string input)
     {
         var inputArray = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
         var outputList = inputArray.OrderBy(x => x).ToList();
