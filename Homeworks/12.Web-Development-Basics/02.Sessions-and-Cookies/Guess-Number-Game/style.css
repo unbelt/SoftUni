@@ -1,0 +1,12 @@
+form {
+    width: 250px;
+    margin: 0 auto;
+}
+input {
+    display: block;
+    margin-top: 10px;
+}
+#logout {
+    display: inline-block;
+    margin-bottom: 30px;
+}
